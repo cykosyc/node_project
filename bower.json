@@ -1,0 +1,17 @@
+{
+  "name": "node_project",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "cykosyc <michael.a.aguilera@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
